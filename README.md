@@ -1,10 +1,10 @@
 # SQL Injection Detection with Snort3 and Apache
 
-<img src="https://www.sakurasky.com/images/blog/snort-logo.png" width="100%" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="100%" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/2560px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="100%" />
-<img src="https://openexpoeurope.com/wp-content/uploads/2018/04/MySQL-clr.png" width="100%" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnJCqhnWKsG-g5aYx6if1WdboQ79mIMEs7A&s" width="100%" />
+<img src="https://www.sakurasky.com/images/blog/snort-logo.png" width="25%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="25%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/2560px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="25%" />
+<img src="https://openexpoeurope.com/wp-content/uploads/2018/04/MySQL-clr.png" width="25%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnJCqhnWKsG-g5aYx6if1WdboQ79mIMEs7A&s" width="25%" />
 
 ## Project Summary
 

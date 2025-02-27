@@ -1,9 +1,9 @@
 # SQL Injection Detection with Snort3 and Apache
 
-![Snort3 Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Snort_logo.png)
-![VirtualBox Logo](https://upload.wikimedia.org/wikipedia/commons/5/5d/VirtualBox_Logo_2014.svg)
-![Apache2 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_HTTP_server_logo.svg/1024px-Apache_HTTP_server_logo.svg.png)
-![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/MySQL_logo.svg)
+![Snort3 Logo](https://www.sakurasky.com/images/blog/snort-logo.png)
+![VirtualBox Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)
+![Apache2 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/2560px-Apache_HTTP_server_logo_%282019-present%29.svg.png)
+![SQL Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnJCqhnWKsG-g5aYx6if1WdboQ79mIMEs7A&s)
 
 ## Project Summary
 
@@ -32,4 +32,3 @@ When a potential SQL injection is detected, **Snort3** generates an alert, which
 - Sets up a web server and database for testing SQL injection.
 - Configures **VirtualBox** for network accessibility.
 - Logs detected SQL injection attempts in Snort3 alerts.
-

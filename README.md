@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://www.sakurasky.com/images/blog/snort-logo.png" width="10%" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="10%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="5%" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/2560px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="10%" />
   <img src="https://openexpoeurope.com/wp-content/uploads/2018/04/MySQL-clr.png" width="10%" />
 </p>
